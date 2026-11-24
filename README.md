@@ -22,7 +22,7 @@
 - **[BudgetControllApp](https://github.com/FildiroiVladut/BudgetControllApp)**: simple budget controller · [live](https://fildiroivladut.github.io/BudgetControllApp/)
 - **[PigGame](https://github.com/FildiroiVladut/PigGame)**: two-player dice game · [play](https://fildiroivladut.github.io/PigGame/)
 - **[Restaurant site](https://github.com/FildiroiVladut/fildiroivladut.github.io/tree/master/restaurant)**: one-page fine dining website · [live](https://fildiroivladut.github.io/restaurant/)
-- **[recipeApp](https://github.com/FildiroiVladut/recipeApp)**: recipe app built with ES6, Babel, npm and Webpack
+- **[recipeApp](https://github.com/FildiroiVladut/recipeApp)**: recipe app built with ES6, Babel, npm and Webpack · [live](https://fildiroivladut.github.io/recipeApp/)
 
 ### 🌱 Currently
 
