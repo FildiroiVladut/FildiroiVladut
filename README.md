@@ -15,13 +15,16 @@
 
 ### 🚀 Projects
 
-- **[shelf](https://github.com/FildiroiVladut/shelf)**: TypeScript app
-- **[mapYourTrips](https://github.com/FildiroiVladut/mapYourTrips)**: track your trips and walks on a map (vanilla JS)
+🌐 **All projects with live demos: [fildiroivladut.github.io](https://fildiroivladut.github.io)**
+
+- **[shelf](https://github.com/FildiroiVladut/shelf)**: reading tracker on the Open Library API (React, TypeScript, TanStack Query) · [live](https://shelf-ashen.vercel.app)
+- **[mapYourTrips](https://github.com/FildiroiVladut/mapYourTrips)**: track your trips and walks on a map (vanilla JS) · [live](https://fildiroivladut.github.io/mapYourTrips/)
+- **[BudgetControllApp](https://github.com/FildiroiVladut/BudgetControllApp)**: simple budget controller · [live](https://fildiroivladut.github.io/BudgetControllApp/)
+- **[PigGame](https://github.com/FildiroiVladut/PigGame)**: two-player dice game · [play](https://fildiroivladut.github.io/PigGame/)
+- **[Restaurant site](https://github.com/FildiroiVladut/fildiroivladut.github.io/tree/master/restaurant)**: one-page fine dining website · [live](https://fildiroivladut.github.io/restaurant/)
 - **[recipeApp](https://github.com/FildiroiVladut/recipeApp)**: recipe app built with ES6, Babel, npm and Webpack
-- **[BudgetControllApp](https://github.com/FildiroiVladut/BudgetControllApp)**: simple budget controller
 
 ### 🌱 Currently
 
 - Building full-stack apps with TypeScript and Node.js
 - Exploring AI integrations for the web
-- Working on a new portfolio website (coming soon)
