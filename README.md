@@ -18,7 +18,7 @@
 🌐 **All projects with live demos: [fildiroivladut.github.io](https://fildiroivladut.github.io)**
 
 - **[shelf](https://github.com/FildiroiVladut/shelf)**: reading tracker on the Open Library API (React, TypeScript, TanStack Query) · [live](https://shelf-ashen.vercel.app)
-- **[mapYourTrips](https://github.com/FildiroiVladut/mapYourTrips)**: track your trips and walks on a map (vanilla JS) · [live](https://fildiroivladut.github.io/mapYourTrips/)
+- **[mapYourTrips](https://github.com/FildiroiVladut/mapYourTrips)**: draw your walks, runs and rides on a map, with automatic distance and pace (vanilla JS, Leaflet) · [live](https://fildiroivladut.github.io/mapYourTrips/)
 - **[BudgetControllApp](https://github.com/FildiroiVladut/BudgetControllApp)**: simple budget controller · [live](https://fildiroivladut.github.io/BudgetControllApp/)
 - **[PigGame](https://github.com/FildiroiVladut/PigGame)**: two-player dice game · [play](https://fildiroivladut.github.io/PigGame/)
 - **[Restaurant site](https://github.com/FildiroiVladut/fildiroivladut.github.io/tree/master/restaurant)**: one-page fine dining website · [live](https://fildiroivladut.github.io/restaurant/)
